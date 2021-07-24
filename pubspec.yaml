@@ -9,7 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  card_swiper: ^1.0.2
   cupertino_icons: ^1.0.2
+  google_fonts: ^2.1.0
 
 dev_dependencies:
   flutter_test:
@@ -19,6 +21,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/
+    - assets/icons/
   # fonts:
   #   - family: Schyler
   #     fonts:
