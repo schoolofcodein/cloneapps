@@ -16,7 +16,7 @@ class RestaurantVerticalListView extends StatelessWidget {
     @required this.title,
     @required this.restaurants,
     this.isAllRestaurantNearby = false,
-  })  : assert(false),
+  })  : assert(true),
         super(key: key);
 
   @override

@@ -72,7 +72,7 @@ class _AppBar extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: <Widget>[
               Text(
-                'VINOTH',
+                'SCHOOLOFCODE',
                 style: Theme.of(context)
                     .textTheme
                     .headline6
@@ -93,7 +93,7 @@ class _AppBar extends StatelessWidget {
           UIHelper.verticalSpaceSmall(),
           Row(
             children: <Widget>[
-              Text('8870123456', style: subtitleStyle),
+              Text('@schoolofcode.in', style: subtitleStyle),
               UIHelper.horizontalSpaceSmall(),
               ClipOval(
                 child: Container(
@@ -103,7 +103,7 @@ class _AppBar extends StatelessWidget {
                 ),
               ),
               UIHelper.horizontalSpaceSmall(),
-              Text('vinothvino@icloud.com', style: subtitleStyle)
+              Text('', style: subtitleStyle)
             ],
           ),
           UIHelper.verticalSpaceLarge(),
@@ -188,8 +188,8 @@ class _PastOrderListView extends StatelessWidget {
   ];
 
   final List<String> foods = [
-    'Pepper BBQ x 1',
-    'Chicken Noodles x 1',
+    'Dosa Sambhar with Curd x 1',
+    'Chocolate Bomb x 1',
     'Milk Tea x 1',
   ];
 
@@ -290,7 +290,7 @@ class _PastOrdersListItemView extends StatelessWidget {
                     ),
                     UIHelper.verticalSpaceExtraSmall(),
                     Text(
-                      'Medavakkam',
+                      'Delhi',
                       style: Theme.of(context)
                           .textTheme
                           .bodyText1

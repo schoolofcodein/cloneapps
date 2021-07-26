@@ -18,7 +18,7 @@ class TopPicksFood {
           minutes: '42 mins'),
       TopPicksFood(
           image: 'assets/images/food4.jpg',
-          name: 'Thalappakati Biryani Hotel',
+          name: 'Thalappakati Yummy Hotel',
           minutes: '32 mins'),
       TopPicksFood(
           image: 'assets/images/food1.jpg',
@@ -42,7 +42,7 @@ class TopPicksFood {
           minutes: '13 mins'),
       TopPicksFood(
           image: 'assets/images/food7.jpg',
-          name: 'Aasife Biryani',
+          name: 'Aasife Yummy',
           minutes: '31 mins'),
       TopPicksFood(
           image: 'assets/images/food8.jpg',

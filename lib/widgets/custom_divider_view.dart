@@ -8,7 +8,7 @@ class CustomDividerView extends StatelessWidget {
     Key key,
     this.dividerHeight = 10.0,
     this.color,
-  })  : assert(false),
+  })  : assert(true),
         super(key: key);
 
   @override

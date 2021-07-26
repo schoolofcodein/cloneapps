@@ -5,7 +5,7 @@ import 'package:cloneapps/utils/app_colors.dart';
 import 'package:cloneapps/utils/ui_helper.dart';
 import 'package:cloneapps/widgets/custom_divider_view.dart';
 
-class MeatScreen extends StatelessWidget {
+class PureVegScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -21,7 +21,7 @@ class MeatScreen extends StatelessWidget {
                   child: Column(
                     mainAxisSize: MainAxisSize.min,
                     children: <Widget>[
-                      _MeatOfferBannerView(),
+                      _PureVegOfferBannerView(),
                       _CardView(),
                       _StoresListView(
                         title: 'Nearby stores',
@@ -69,7 +69,7 @@ class MeatScreen extends StatelessWidget {
             ),
             UIHelper.horizontalSpaceSmall(),
             Text(
-              'Fresh Meat Stores',
+              'Fresh PureVeg Stores',
               style: Theme.of(context).textTheme.headline6,
             )
           ],
@@ -127,7 +127,7 @@ class _SearchView extends StatelessWidget {
   }
 }
 
-class _MeatOfferBannerView extends StatelessWidget {
+class _PureVegOfferBannerView extends StatelessWidget {
   final List<String> images = [
     'assets/images/banner1.jpg',
     'assets/images/banner2.jpg',

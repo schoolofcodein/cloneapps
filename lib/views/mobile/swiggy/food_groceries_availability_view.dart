@@ -6,7 +6,7 @@ import 'package:cloneapps/widgets/responsive.dart';
 
 import 'all_restaurants/all_restaurants_screen.dart';
 import 'genie/genie_grocery_card_view.dart';
-import 'meat/meat_screen.dart';
+import 'pureveg/pureveg.dart';
 
 class FoodGroceriesAvailabilityView extends StatelessWidget {
   @override
@@ -41,7 +41,7 @@ class FoodGroceriesAvailabilityView extends StatelessWidget {
                       ),
                       UIHelper.verticalSpaceSmall(),
                       Text(
-                        'Food & Genie service (Mon-Sat)-6:00 am to 9:00pm. Groceries & Meat (Mon-Sat)-6:00 am to 6:00pm. Dairy (Mon-Sat)-6:00 am to 6:00pm (Sun)-6:00 am to 12:00 pm',
+                        'Food & Genie service (Mon-Sat)-6:00 am to 9:00pm. Groceries & PureVeg (Mon-Sat)-6:00 am to 6:00pm. Dairy (Mon-Sat)-6:00 am to 6:00pm (Sun)-6:00 am to 12:00 pm',
                         textAlign: TextAlign.center,
                         style: Theme.of(context).textTheme.bodyText1.copyWith(
                               fontSize: 16.0,
@@ -173,8 +173,8 @@ class FoodGroceriesAvailabilityView extends StatelessWidget {
                       },
               ),
               GenieGroceryCardView(
-                title: 'Meat',
-                subtitle: 'Fesh meat\ndelivered safe',
+                title: 'Pure Veg',
+                subtitle: 'Fesh Pure Veg\ndelivered safe',
                 image: 'assets/images/food6.jpg',
                 onTap: isTabletDesktop
                     ? () {}
@@ -182,7 +182,7 @@ class FoodGroceriesAvailabilityView extends StatelessWidget {
                         Navigator.push(
                           context,
                           MaterialPageRoute(
-                            builder: (context) => MeatScreen(),
+                            builder: (context) => PureVegScreen(),
                           ),
                         );
                       },

@@ -60,18 +60,18 @@ class AllRestaurant {
       ),
       SpotlightBestTopFood(
         image: 'assets/images/food4.jpg',
-        name: 'Biryani Expresss',
+        name: 'Yummy Expresss',
         desc: 'North Indian',
         coupon: '20 \$ off | Use JUMBO',
         ratingTimePrice: '3.8 15 mins - Rs 200 for two',
       ),
-      SpotlightBestTopFood(
-        image: 'assets/images/food7.jpg',
-        name: 'BBQ King',
-        desc: 'South Indian',
-        coupon: '20 \$ off | Use JUMBO',
-        ratingTimePrice: '4.1 25 mins - Rs 120 for two',
-      ),
+      // SpotlightBestTopFood(
+      //   image: 'assets/images/food7.jpg',
+      //   name: 'Tasty King',
+      //   desc: 'South Indian',
+      //   coupon: '20 \$ off | Use JUMBO',
+      //   ratingTimePrice: '4.1 25 mins - Rs 120 for two',
+      // ),
       SpotlightBestTopFood(
         image: 'assets/images/food8.jpg',
         name: 'Pizza Corner',
@@ -86,7 +86,7 @@ class AllRestaurant {
     return const [
       SpotlightBestTopFood(
         image: 'assets/images/food4.jpg',
-        name: 'Biryani Expresss',
+        name: 'Yummy Expresss',
         desc: 'North Indian',
         coupon: '20 \$ off | Use JUMBO',
         ratingTimePrice: '3.8 15 mins - Rs 200 for two',
@@ -105,13 +105,13 @@ class AllRestaurant {
         coupon: '20 \$ off | Use SWIGGYIT',
         ratingTimePrice: '4.1 35 mins - Rs 150 for two',
       ),
-      SpotlightBestTopFood(
-        image: 'assets/images/food7.jpg',
-        name: 'BBQ King',
-        desc: 'South Indian',
-        coupon: '20 \$ off | Use JUMBO',
-        ratingTimePrice: '4.1 25 mins - Rs 120 for two',
-      ),
+      // SpotlightBestTopFood(
+      //   image: 'assets/images/food7.jpg',
+      //   name: 'Tasty King',
+      //   desc: 'South Indian',
+      //   coupon: '20 \$ off | Use JUMBO',
+      //   ratingTimePrice: '4.1 25 mins - Rs 120 for two',
+      // ),
       SpotlightBestTopFood(
         image: 'assets/images/food8.jpg',
         name: 'Pizza Corner',
@@ -121,7 +121,7 @@ class AllRestaurant {
       ),
       SpotlightBestTopFood(
         image: 'assets/images/food6.jpg',
-        name: 'Adyar Hotel',
+        name: 'Pure Veg Hotel',
         desc: 'South Indian',
         coupon: '30 \$ off | Use JUMBO',
         ratingTimePrice: '4.3 21 mins - Rs 150 for two',
@@ -133,7 +133,7 @@ class AllRestaurant {
     return [
       SpotlightBestTopFood(
         image: 'assets/images/food4.jpg',
-        name: 'Biryani Expresss',
+        name: 'Yummy Expresss',
         desc: 'North Indian',
         coupon: '20 \$ off | Use JUMBO',
         ratingTimePrice: '3.8 15 mins - Rs 200 for two',
@@ -154,7 +154,7 @@ class AllRestaurant {
       ),
       SpotlightBestTopFood(
         image: 'assets/images/food6.jpg',
-        name: 'Adyar Hotel',
+        name: 'Pure Veg Hotel',
         desc: 'South Indian',
         coupon: '30 \$ off | Use JUMBO',
         ratingTimePrice: '4.3 21 mins - Rs 150 for two',
@@ -167,7 +167,7 @@ class AllRestaurant {
       IndianFood(image: 'assets/images/food3.jpg', name: 'South\nIndian'),
       IndianFood(image: 'assets/images/food5.jpg', name: 'Indian\nChai'),
       IndianFood(image: 'assets/images/food1.jpg', name: 'North \nndian'),
-      IndianFood(image: 'assets/images/food8.jpg', name: 'Indian\nBiryani'),
+      IndianFood(image: 'assets/images/food8.jpg', name: 'Indian\nYummy'),
       IndianFood(image: 'assets/images/food9.jpg', name: 'Indian\nDosa'),
       IndianFood(image: 'assets/images/food4.jpg', name: 'Indian\nIdly'),
     ];
@@ -216,12 +216,12 @@ class LargeRestaurantBanner {
       LargeRestaurantBanner(
         image: 'assets/images/food4.jpg',
         title: 'Banu\n Bhavan',
-        subtitle: 'Biryani, Chicken, Mutton',
+        subtitle: 'Yummy, Pasta, Veg Roll',
       ),
       LargeRestaurantBanner(
         image: 'assets/images/food8.jpg',
-        title: 'BBQ Nation',
-        subtitle: 'Chicken, Fried Chickent, Tandoori Chicken',
+        title: 'Tasty Nation',
+        subtitle: 'Pasta, Fried Pastat, Tandoori Pasta',
       ),
     ];
   }
@@ -231,7 +231,7 @@ class LargeRestaurantBanner {
       LargeRestaurantBanner(
         image: 'assets/images/food1.jpg',
         title: 'Faasos',
-        subtitle: 'Fast Food, North Indian, Biryani, Desserts',
+        subtitle: 'Fast Food, North Indian, Yummy, Desserts',
       ),
       LargeRestaurantBanner(
         image: 'assets/images/food2.jpg',
@@ -241,17 +241,17 @@ class LargeRestaurantBanner {
       LargeRestaurantBanner(
         image: 'assets/images/food7.jpg',
         title: 'Paradise\n Bhavan',
-        subtitle: 'Biryani, Chicken, Mutton',
+        subtitle: 'Yummy, Pasta, Veg Roll',
       ),
       LargeRestaurantBanner(
         image: 'assets/images/food10.jpg',
-        title: 'BBQ Nation',
-        subtitle: 'Chicken, Fried Chickent, Tandoori Chicken',
+        title: 'Tasty Nation',
+        subtitle: 'Pasta, Fried Pastat, Tandoori Pasta',
       ),
       LargeRestaurantBanner(
         image: 'assets/images/food3.jpg',
-        title: 'OMB Biryani',
-        subtitle: 'Biryani',
+        title: 'OMB Yummy',
+        subtitle: 'Yummy',
       ),
     ];
   }

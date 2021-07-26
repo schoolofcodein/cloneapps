@@ -28,7 +28,7 @@ class PopularBrands {
           minutes: '38 mins'),
       PopularBrands(
           image: 'assets/images/food3.jpg',
-          name: 'BBQ Nation',
+          name: 'Tasty Nation',
           minutes: '53 mins'),
       PopularBrands(
           image: 'assets/images/food4.jpg',
@@ -38,11 +38,11 @@ class PopularBrands {
           image: 'assets/images/food6.jpg', name: 'KFC', minutes: '13 mins'),
       PopularBrands(
           image: 'assets/images/food7.jpg',
-          name: 'Aasife Biryani',
+          name: 'Aasife Yummy',
           minutes: '31 mins'),
       PopularBrands(
           image: 'assets/images/food8.jpg',
-          name: 'Chennai Biryani',
+          name: 'Chennai Yummy',
           minutes: '44 mins'),
     ];
   }

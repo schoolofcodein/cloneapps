@@ -28,8 +28,8 @@ class OrderMenu {
         price: 160,
       ),
       OrderMenu(
-        image: 'assets/images/food3.jpg',
-        title: 'BBQ King',
+        image: 'assets/images/food1.jpg',
+        title: 'Pure Veg',
         quantity: 2,
         price: 230,
       ),

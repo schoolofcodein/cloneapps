@@ -74,7 +74,7 @@ class SpotlightBestTopFood {
         ),
         SpotlightBestTopFood(
           image: 'assets/images/food8.jpg',
-          name: 'BBQ Nation',
+          name: 'Tasty Nation',
           desc: 'South Indian',
           coupon: '30 \$ off | Use JUMBO',
           ratingTimePrice: '4.3 42 mins - Rs 350 for two',
@@ -95,7 +95,7 @@ class SpotlightBestTopFood {
         ),
         SpotlightBestTopFood(
           image: 'assets/images/food1.jpg',
-          name: 'BBQ Expresss',
+          name: 'Tasty Expresss',
           desc: 'Continental North Indian, South Indian',
           coupon: '20 \$ off | Use JUMBO',
           ratingTimePrice: '4.1 15 mins - Rs 200 for two',
@@ -143,7 +143,7 @@ class SpotlightBestTopFood {
         ),
         SpotlightBestTopFood(
           image: 'assets/images/food8.jpg',
-          name: 'BBQ Nation',
+          name: 'Tasty Nation',
           desc: 'South Indian',
           coupon: '30 \$ off | Use JUMBO',
           ratingTimePrice: '4.3 45 mins - Rs 350 for two',
@@ -164,7 +164,7 @@ class SpotlightBestTopFood {
         ),
         SpotlightBestTopFood(
           image: 'assets/images/food4.jpg',
-          name: 'Biryani Expresss',
+          name: 'Yummy Expresss',
           desc: 'North Indian',
           coupon: '20 \$ off | Use JUMBO',
           ratingTimePrice: '3.8 15 mins - Rs 200 for two',
@@ -187,13 +187,13 @@ class SpotlightBestTopFood {
         ),
       ],
       [
-        SpotlightBestTopFood(
-          image: 'assets/images/food7.jpg',
-          name: 'BBQ King',
-          desc: 'South Indian',
-          coupon: '20 \$ off | Use JUMBO',
-          ratingTimePrice: '4.1 25 mins - Rs 120 for two',
-        ),
+        // SpotlightBestTopFood(
+        //   image: 'assets/images/food7.jpg',
+        //   name: 'Tasty King',
+        //   desc: 'South Indian',
+        //   coupon: '20 \$ off | Use JUMBO',
+        //   ratingTimePrice: '4.1 25 mins - Rs 120 for two',
+        // ),
         SpotlightBestTopFood(
           image: 'assets/images/food8.jpg',
           name: 'Pizza Corner',
@@ -212,7 +212,7 @@ class SpotlightBestTopFood {
         ),
         SpotlightBestTopFood(
           image: 'assets/images/food6.jpg',
-          name: 'Adyar Hotel',
+          name: 'Pure Veg Hotel',
           desc: 'South Indian',
           coupon: '30 \$ off | Use JUMBO',
           ratingTimePrice: '4.3 21 mins - Rs 150 for two',
@@ -232,7 +232,7 @@ class SpotlightBestTopFood {
       ),
       SpotlightBestTopFood(
         image: 'assets/images/food6.jpg',
-        name: 'Adyar Hotel',
+        name: 'Pure Veg Hotel',
         desc: 'South Indian',
         coupon: '30 \$ off | Use JUMBO',
         ratingTimePrice: '4.3 21 mins - Rs 150 for two',
@@ -246,7 +246,7 @@ class SpotlightBestTopFood {
       ),
       SpotlightBestTopFood(
         image: 'assets/images/food8.jpg',
-        name: 'BBQ Nation',
+        name: 'Tasty Nation',
         desc: 'South Indian',
         coupon: '30 \$ off | Use JUMBO',
         ratingTimePrice: '4.3 45 mins - Rs 350 for two',
@@ -279,7 +279,7 @@ class SpotlightBestTopFood {
       ),
       SpotlightBestTopFood(
         image: 'assets/images/food4.jpg',
-        name: 'Biryani Expresss',
+        name: 'Yummy Expresss',
         desc: 'North Indian',
         coupon: '20 \$ off | Use JUMBO',
         ratingTimePrice: '3.8 15 mins - Rs 200 for two',
@@ -298,13 +298,13 @@ class SpotlightBestTopFood {
         coupon: '20 \$ off | Use SWIGGYIT',
         ratingTimePrice: '4.1 35 mins - Rs 150 for two',
       ),
-      SpotlightBestTopFood(
-        image: 'assets/images/food7.jpg',
-        name: 'BBQ King',
-        desc: 'South Indian',
-        coupon: '20 \$ off | Use JUMBO',
-        ratingTimePrice: '4.1 25 mins - Rs 120 for two',
-      ),
+      // SpotlightBestTopFood(
+      //   image: 'assets/images/food7.jpg',
+      //   name: 'Tasty King',
+      //   desc: 'South Indian',
+      //   coupon: '20 \$ off | Use JUMBO',
+      //   ratingTimePrice: '4.1 25 mins - Rs 120 for two',
+      // ),
       SpotlightBestTopFood(
         image: 'assets/images/food8.jpg',
         name: 'Pizza Corner',
@@ -321,7 +321,7 @@ class SpotlightBestTopFood {
       ),
       SpotlightBestTopFood(
         image: 'assets/images/food6.jpg',
-        name: 'Adyar Hotel',
+        name: 'Pure Veg Hotel',
         desc: 'South Indian',
         coupon: '30 \$ off | Use JUMBO',
         ratingTimePrice: '4.3 21 mins - Rs 150 for two',
